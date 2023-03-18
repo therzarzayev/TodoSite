@@ -1,0 +1,10 @@
+.fa-trash-alt:hover{
+    opacity: 0.5;
+}
+.fa-trash-alt:active{
+    opacity: 1;
+}
+
+.delete{
+    cursor: pointer;
+}
